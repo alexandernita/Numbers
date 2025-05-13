@@ -20,7 +20,7 @@ $$
 There is a well known relationship between the prime factorization of $n$,
 
 $$
-n = p_1^{k_1}*p_2^{k_2}\cdots p_r^{k_r}
+n = p_1^{k_1}p_2^{k_2}\cdots p_r^{k_r}
 $$
 
 and the Euler $\varphi$ function, namely,

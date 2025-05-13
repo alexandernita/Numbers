@@ -26,9 +26,9 @@ $$
 and the Euler $\varphi$ function, namely,
 
 $$
-\varphi (n)=p_{1}^{k_{1}-1}(p_{1}{-}1)\,p_{2}^{k_{2}-1}(p_{2}{-}1)\cdots p_{r}^{k_{r}-1}(p_{r}{-}1),}
+\varphi (n)=p_{1}^{k_{1}-1}(p_{1}{-}1)\,p_{2}^{k_{2}-1}(p_{2}{-}1)\cdots p_{r}^{k_{r}-1}(p_{r}{-}1)
 $$
 
-In the case of $n=10$, the fact that $10 = 2^1*5^1$ implies that $\varphi(10)=2^{1-1}(2-1)\cdot 5^{1-1}*(5-1)=4$.
+In the case of $n=10$, for example, the factorization $10 = 2^1*5^1$ implies that $\varphi(10)=2^{1-1}(2-1)\cdot 5^{1-1}*(5-1)=4$.
 
-Below, we write Python functions to compute each of the lists, primes and coprimes, less than a given $n$.  
+Below, we write Python functions to compute each of the lists, primes and coprimes, less than a given $n$.  Then we compare with Euler's $\varphi$ function by first giving the prime factorization of the chosen $n$.

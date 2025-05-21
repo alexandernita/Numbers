@@ -7,7 +7,7 @@ The **first Jupyter notebook**, number_list_analysis.ipynb, is an exercise in ma
 
 We attempt point 4 in two different ways:  directly using NumPy + formatting the printout, and using the .describe() function in Pandas.  These were exercises in Python for me, using elementary number theory as the matter to be manipulated.  Perhaps they will come in handy later.
 
-The **second Jupyter notebook** is an 
+The **second Jupyter notebook** is an exercise in 
 
 The **third Jupyter notebook**, primes.ipynb, concerns the problem of finding all prime and coprime numbers less than a given positive $n\in\mathbb{N}$ of your choosing.   
 * If $n=10$, for example, there are four primes, $p=2, 3, 5, 7$ in the interval $[2,10]$, and four numbers $m = 1, 3, 7, 9$ coprime to $n=10$ in the intervsl $[1,10]$.
